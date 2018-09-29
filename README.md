@@ -7,7 +7,9 @@
 - tuples
     - are inmutable (key difference from list)
 - functions
-- if statetments
-- operators  
+- flow control:
+    - if statetments, for loop, while loop
+- operators
+- dictionary  
 
 
