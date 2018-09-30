@@ -10,6 +10,9 @@
 - flow control:
     - if statetments, for loop, while loop
 - operators
-- dictionary  
+- dictionary
+- catching errors (try, except)
+- reading files and writing files
+  
 
 

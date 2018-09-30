@@ -9,6 +9,7 @@ number_grid = [
 # Access 2d list element
 print(number_grid[2][1])
 
+# Nested for loop
 for row in number_grid:
     for col in row:
         print(col)
